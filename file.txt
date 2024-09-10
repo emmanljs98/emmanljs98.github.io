@@ -1,1 +1,5 @@
-Hello, World!
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/emmanljs98/emmanljs98.github.io.git
+git push -u origin master
